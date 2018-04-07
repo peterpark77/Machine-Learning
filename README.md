@@ -1,6 +1,6 @@
 ----------------------------------------- READ ME -------------------------------------------
 
-## This is for the project ##
+## For project ##
 
 
 These files contains various models that classify Modified handwritten Digits with
